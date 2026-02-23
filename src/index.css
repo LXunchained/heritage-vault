@@ -3,13 +3,13 @@
 @tailwind utilities;
 
 :root {
-  /* Colors */
+  /* Colors - Heritage & Sagesse (Amber/Gold Theme) */
   --bg-dark: #0f172a;
   --bg-card: #1e293b;
   --text-primary: #f8fafc;
   --text-secondary: #94a3b8;
-  --primary: #8b5cf6; /* Violet */
-  --accent: #ec4899; /* Pink */
+  --primary: #d97706; /* Amber-600 */
+  --accent: #f59e0b; /* Amber-500 */
   --success: #10b981;
   --warning: #f59e0b;
   --error: #ef4444;
@@ -92,7 +92,7 @@ button {
 .card:hover {
   transform: translateY(-5px);
   box-shadow: var(--shadow-lg);
-  border-color: rgba(139, 92, 246, 0.3);
+  border-color: rgba(217, 119, 6, 0.3);
 }
 
 .btn {
@@ -110,13 +110,13 @@ button {
 .btn-primary {
   background: linear-gradient(135deg, var(--primary), var(--accent));
   color: white;
-  box-shadow: 0 4px 14px 0 rgba(139, 92, 246, 0.39);
+  box-shadow: 0 4px 14px 0 rgba(217, 119, 6, 0.39);
 }
 
 .btn-primary:hover {
   opacity: 0.9;
   transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(139, 92, 246, 0.23);
+  box-shadow: 0 6px 20px rgba(217, 119, 6, 0.23);
 }
 
 .btn-secondary {
