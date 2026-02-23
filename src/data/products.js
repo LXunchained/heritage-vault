@@ -1,77 +1,77 @@
 export const products = [
     {
-        id: "kdp-automation-suite",
-        title: "KDP Automation Suite",
-        shortDescription: "The ultimate toolkit for Kindle Direct Publishing.",
-        description: "Stop manually uploading books one by one. The KDP Automation Suite is a battle-tested Python solution that handles the entire publishing workflow for you. From batch uploading metadata to tracking your portfolio's status, this suite gives you back hours of your life every single day.",
-        price: 49.99,
+        id: "la-force-de-l-esprit",
+        title: "La Force de l'Esprit",
+        shortDescription: "Un voyage à travers les philosophies de la résilience.",
+        description: "Ce livre explore comment les grandes sagesses du passé peuvent nous aider à naviguer dans les défis du monde moderne. Une lecture essentielle pour quiconque cherche à renforcer sa détermination et sa clarté mentale.",
+        price: 19.99,
         features: [
-            "Batch Upload Unlimited Books via CSV",
-            "Real-time Dashboard & Status Checker",
-            "Automatic Keyword & Category Optimization",
-            "Headless Browser Tech for Background Processing",
-            "Detailed Error Logging & Reporting"
+            "Leçons de stoïcisme appliquées",
+            "Exercices de réflexion quotidienne",
+            "Méditations guidées incluses",
+            "Format E-book et Audiobook",
+            "Accès à la communauté privée"
         ],
         specs: {
-            language: "Python 3.10+",
-            os: "Windows 10/11, macOS, Linux",
-            requirements: "Chrome Browser, Google Account"
+            format: "PDF, EPUB, MP3",
+            pages: "240 pages",
+            language: "Français"
         },
         faq: [
-            { q: "Is this safe for my KDP account?", a: "Yes. The script mimics human behavior with randomized delays to stay within Amazon's rate limits." },
-            { q: "Do I need to know Python?", a: "Basic knowledge helps, but we include a full setup guide and 'run.bat' files for one-click execution." }
+            { q: "Est-ce adapté aux débutants ?", a: "Oui, les concepts sont expliqués de manière simple et accessible à tous." },
+            { q: "Puis-je l'écouter sur mon téléphone ?", a: "Absolument, la version audio est compatible avec tous les smartphones." }
         ],
-        badge: "Best Seller",
+        badge: "Populaire",
         icon: "BookOpen"
     },
     {
-        id: "social-media-bot",
-        title: "Viral Social Bot",
-        shortDescription: "Dominate productivity with automated content distribution.",
-        description: "Consistency is key to viral growth, but posting manually to TikTok, Shorts, and Reels is a full-time job. This bot automates the entire distribution pipeline. Just drop your video files in a folder, configure your captions, and watch your channels grow on autopilot.",
-        price: 39.99,
+        id: "l-art-de-la-transmission",
+        title: "L'Art de la Transmission",
+        shortDescription: "Apprendre à transmettre son savoir aux générations futures.",
+        description: "Comment laisser une trace durable ? Ce guide pratique vous enseigne les méthodes pour structurer vos connaissances et les partager de manière efficace avec vos proches ou votre audience.",
+        price: 24.99,
         features: [
-            "Multi-platform Uploading (TikTok, YT Shorts, Reels)",
-            "Schedule & Queue Management",
-            "Auto-Tag Generation based on Content",
-            "Anti-Detection Browser Fingerprinting",
-            "Engagement Analytics Dashboard"
+            "Méthodes de storytelling",
+            "Guide de création d'héritage numérique",
+            "Modèles de journaux de bord",
+            "Ateliers vidéo exclusifs",
+            "Checklists de transmission"
         ],
         specs: {
-            language: "Python 3.10+",
-            os: "Windows 10/11",
-            requirements: "FFmpeg, Selenium WebDriver"
+            format: "Pack Numérique Complet",
+            duration: "3h de contenu vidéo",
+            language: "Français"
         },
         faq: [
-            { q: "Can I schedule posts?", a: "Absolutely. You can set specific times or intervals for uploads." },
-            { q: "Does it handle cookies?", a: "Yes, it saves your login sessions so you don't need to sign in every time." }
+            { q: "Qu'est-ce qu'un héritage numérique ?", a: "C'est l'ensemble de vos écrits, photos et vidéos organisés pour être consultés après vous." },
+            { q: "Y a-t-il des mises à jour ?", a: "Oui, vous recevez gratuitement toutes les nouvelles versions du guide." }
         ],
-        badge: "New",
+        badge: "Nouveau",
         icon: "Share2"
     },
     {
-        id: "google-ecosystem-manager",
-        title: "Google Ecosystem Manager",
-        shortDescription: "Take control of your Google Play Books and Tasks.",
-        description: "Managing a large library on Google Play Books can be messy. Ghost entries, sync errors, and metadata mismatches are common. This tool cleans your Partner Center, syncs your publishing roadmap with Google Tasks, and ensures your catalog is pristine.",
-        price: 29.99,
+        id: "sagesse-quotidienne-journal",
+        title: "Journal de Sagesse",
+        shortDescription: "Votre compagnon pour une vie intentionnelle.",
+        description: "Plus qu'un simple carnet, ce journal est un outil de transformation. Chaque jour, une citation inspirante et une question de réflexion pour vous aider à rester aligné avec vos valeurs profondes.",
+        price: 14.99,
         features: [
-            "Ghost Entry Cleanup & Database Repair",
-            "Bi-directional Sync with Google Tasks",
-            "Partner Center API Integration",
-            "Automated Maintenance Schedules",
-            "Detailed Audit Logs"
+            "365 jours de réflexion",
+            "Citations de grands penseurs",
+            "Suivi d'habitudes intégré",
+            "Design élégant et minimaliste",
+            "Version imprimable haute qualité"
         ],
         specs: {
-            language: "Python 3.10+",
-            os: "Windows 10/11, macOS",
-            requirements: "Google Cloud Console Project Credentials"
+            format: "PDF (Optimisé pour impression/iPad)",
+            pages: "380 pages",
+            language: "Français"
         },
         faq: [
-            { q: "How do I get API keys?", a: "We provide a step-by-step PDF guide to setting up your Google Cloud project." },
-            { q: "Does it delete my live books?", a: "Never. It only targets 'draft' or 'error' status entries that match your cleanup criteria." }
+            { q: "Puis-je l'utiliser sur une tablette ?", a: "Oui, il est parfait pour des applications comme GoodNotes ou Notability." },
+            { q: "Est-ce daté ?", a: "Non, vous pouvez commencer à tout moment de l'année." }
         ],
-        badge: "Essential",
+        badge: "Essentiel",
         icon: "Command"
     }
 ];

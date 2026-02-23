@@ -1,33 +1,33 @@
-import { ArrowRight, Code, Zap } from 'lucide-react';
+import { ArrowRight, Book, Scroll } from 'lucide-react';
 import { products } from '../data/products';
 import ProductCard from '../components/ProductCard';
 
 const Home = () => {
     return (
-        <div className="min-h-screen bg-slate-900 text-white font-sans antialiased overflow-hidden selection:bg-violet-500/30">
+        <div className="min-h-screen bg-slate-900 text-white font-sans antialiased overflow-hidden selection:bg-amber-500/30">
             {/* Hero Section */}
             <section className="relative pt-32 pb-24 px-6 container mx-auto text-center flex flex-col items-center">
-                <div className="absolute inset-x-0 -top-32 h-64 bg-gradient-to-b from-violet-500/10 to-transparent blur-3xl opacity-50 z-[-1]" />
+                <div className="absolute inset-x-0 -top-32 h-64 bg-gradient-to-b from-amber-500/10 to-transparent blur-3xl opacity-50 z-[-1]" />
 
                 <div className="mb-6 flex items-center gap-2 px-3 py-1 rounded-full bg-slate-800/50 border border-slate-700/50 text-xs text-slate-400 font-medium animate-fade-in">
-                    <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />
-                    Available for instant download
+                    <span className="w-2 h-2 rounded-full bg-amber-500 animate-pulse" />
+                    Explorer la sagesse intemporelle
                 </div>
 
-                <h1 className="text-5xl md:text-7xl font-bold tracking-tight mb-6 bg-clip-text text-transparent bg-gradient-to-br from-white via-slate-200 to-slate-500 animate-fade-in delay-100 drop-shadow-sm">
-                    Automate Your Empire.
+                <h1 className="text-5xl md:text-7xl font-bold tracking-tight mb-6 bg-clip-text text-transparent bg-gradient-to-br from-white via-slate-200 to-amber-500 animate-fade-in delay-100 drop-shadow-sm">
+                    Héritage & Sagesse
                 </h1>
 
                 <p className="text-lg md:text-xl text-slate-400 max-w-2xl mx-auto mb-10 leading-relaxed animate-fade-in delay-200">
-                    Professional-grade scripts and tools designed to scale your KDP publishing, social media marketing, and digital operations.
+                    Découvrez une collection de livres et de ressources dédiées à la croissance personnelle, à la philosophie et à la transmission du savoir.
                 </p>
 
                 <div className="flex flex-col sm:flex-row gap-4 justify-center animate-fade-in delay-300">
-                    <button className="btn btn-primary bg-violet-600 hover:bg-violet-500 text-white px-8 py-4 rounded-xl font-semibold shadow-lg shadow-violet-500/25 transition-all hover:scale-105 active:scale-95 flex items-center gap-2">
-                        Browse Tools <Code size={20} />
+                    <button className="btn btn-primary bg-amber-600 hover:bg-amber-500 text-white px-8 py-4 rounded-xl font-semibold shadow-lg shadow-amber-500/25 transition-all hover:scale-105 active:scale-95 flex items-center gap-2">
+                        Explorer les Livres <Book size={20} />
                     </button>
                     <button className="btn btn-secondary bg-slate-800 hover:bg-slate-700 text-slate-200 px-8 py-4 rounded-xl font-semibold border border-slate-700 hover:border-slate-600 transition-all hover:scale-105 active:scale-95 flex items-center gap-2">
-                        Learn More <ArrowRight size={20} />
+                        En Savoir Plus <ArrowRight size={20} />
                     </button>
                 </div>
             </section>
@@ -36,10 +36,10 @@ const Home = () => {
             <section className="py-12 border-y border-slate-800 bg-slate-900/50 backdrop-blur-sm">
                 <div className="container mx-auto px-6 grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
                     {[
-                        { label: 'Downloads', value: '15k+' },
-                        { label: 'Active Users', value: '8.2k' },
-                        { label: 'Efficiency Boost', value: '300%' },
-                        { label: 'Support', value: '24/7' },
+                        { label: 'Lecteurs', value: '10k+' },
+                        { label: 'Livres', value: '50+' },
+                        { label: 'Impact', value: 'Global' },
+                        { label: 'Soutien', value: 'Dédié' },
                     ].map((stat, i) => (
                         <div key={i} className="flex flex-col gap-1">
                             <span className="text-3xl font-bold text-white tracking-tighter">{stat.value}</span>
@@ -53,13 +53,13 @@ const Home = () => {
             <section className="py-24 container mx-auto px-6" id="products">
                 <div className="flex justify-between items-end mb-12">
                     <div>
-                        <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">Featured Tools</h2>
+                        <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">Notre Bibliothèque</h2>
                         <p className="text-slate-400 max-w-xl">
-                            Hand-crafted automation scripts to replace manual grunt work. Built for creators by creators.
+                            Une sélection rigoureuse d'ouvrages pour enrichir votre esprit et votre quotidien.
                         </p>
                     </div>
-                    <button className="text-violet-400 hover:text-violet-300 font-medium flex items-center gap-2 transition-colors hidden md:flex">
-                        View All <ArrowRight size={16} />
+                    <button className="text-amber-400 hover:text-amber-300 font-medium flex items-center gap-2 transition-colors hidden md:flex">
+                        Tout Voir <ArrowRight size={16} />
                     </button>
                 </div>
 
@@ -75,16 +75,16 @@ const Home = () => {
                 <div className="container mx-auto px-6 text-center">
                     <div className="max-w-3xl mx-auto bg-slate-900 border border-slate-800 rounded-3xl p-12 relative overflow-hidden">
                         <div className="absolute top-0 left-0 w-full h-full bg-grid-slate-800/[0.05] [mask-image:linear-gradient(0deg,white,rgba(255,255,255,0.6))] pointer-events-none" />
-                        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[600px] h-[300px] bg-violet-500/10 blur-[100px] rounded-full pointer-events-none" />
+                        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[600px] h-[300px] bg-amber-500/10 blur-[100px] rounded-full pointer-events-none" />
 
                         <h2 className="text-3xl md:text-4xl font-bold text-white mb-6 relative z-10">
-                            Ready to 10x your output?
+                            Prenez votre destin en main.
                         </h2>
                         <p className="text-slate-400 text-lg mb-8 relative z-10">
-                            Join hundreds of creators using our tools to build their digital empire.
+                            Rejoignez notre communauté de lecteurs passionnés et cultivez votre héritage.
                         </p>
                         <button className="relative z-10 btn btn-primary bg-white text-slate-950 hover:bg-slate-200 px-8 py-4 rounded-xl font-bold transition-all hover:scale-105 active:scale-95 shadow-xl shadow-white/5">
-                            get_access_now() <Zap size={18} className="ml-2 inline-block text-violet-600" />
+                            S'inscrire <Scroll size={18} className="ml-2 inline-block text-amber-600" />
                         </button>
                     </div>
                 </div>
