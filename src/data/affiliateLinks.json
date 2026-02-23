@@ -1,0 +1,11 @@
+[
+    {
+        "id": "test-book-488c",
+        "title": "Test Book",
+        "category": "tech",
+        "subtitle": "Featured in latest video",
+        "url": "https://example.com/book",
+        "icon": "\ud83d\udd25",
+        "isHighlighted": true
+    }
+]
