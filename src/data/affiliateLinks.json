@@ -1,12 +1,21 @@
 [
     {
-        "id": "the-subtle-art-of-not-giving-a-fck-a-counterintuitive-approach-to-living-a-good--8f6e",
+        "id": "the-subtle-art-of-not-giving-a-fck-a-counterintuitive-approach-to-living-a-good--d2c4",
         "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
         "category": "books",
         "subtitle": "Featured in latest video",
         "url": "https://www.amazon.com/dp/B01I29Y344?tag=louisamazonaf-20",
         "icon": "📚",
         "isHighlighted": true
+    },
+    {
+        "id": "the-subtle-art-of-not-giving-a-fck-a-counterintuitive-approach-to-living-a-good--8f6e",
+        "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
+        "category": "books",
+        "subtitle": "Featured in latest video",
+        "url": "https://www.amazon.com/dp/B01I29Y344?tag=louisamazonaf-20",
+        "icon": "📚",
+        "isHighlighted": false
     },
     {
         "id": "strangers-a-memoir-of-marriage-ce45",
