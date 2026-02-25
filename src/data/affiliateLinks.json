@@ -1,12 +1,21 @@
 [
     {
-        "id": "strangers-a-memoir-of-marriage-8578",
+        "id": "strangers-a-memoir-of-marriage-ce45",
         "title": "Strangers: A Memoir of Marriage",
         "category": "books",
         "subtitle": "Featured in latest video",
         "url": "https://www.amazon.com/dp/B0F6QPJMKJ?tag=louisamazonaf-20",
         "icon": "📚",
         "isHighlighted": true
+    },
+    {
+        "id": "strangers-a-memoir-of-marriage-8578",
+        "title": "Strangers: A Memoir of Marriage",
+        "category": "books",
+        "subtitle": "Featured in latest video",
+        "url": "https://www.amazon.com/dp/B0F6QPJMKJ?tag=louisamazonaf-20",
+        "icon": "📚",
+        "isHighlighted": false
     },
     {
         "id": "crying-in-h-mart-a-memoir-9b47",
