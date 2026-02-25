@@ -1,11 +1,47 @@
 [
     {
-        "id": "test-book-488c",
-        "title": "Test Book",
-        "category": "tech",
+        "id": "strangers-a-memoir-of-marriage-8578",
+        "title": "Strangers: A Memoir of Marriage",
+        "category": "books",
         "subtitle": "Featured in latest video",
-        "url": "https://example.com/book",
-        "icon": "\ud83d\udd25",
+        "url": "https://www.amazon.com/dp/B0F6QPJMKJ?tag=louisamazonaf-20",
+        "icon": "📚",
         "isHighlighted": true
+    },
+    {
+        "id": "crying-in-h-mart-a-memoir-9b47",
+        "title": "Crying in H Mart: A Memoir",
+        "category": "books",
+        "subtitle": "Featured in latest video",
+        "url": "https://www.amazon.com/dp/B08DMXF7ZZ?tag=louisamazonaf-20",
+        "icon": "📚",
+        "isHighlighted": false
+    },
+    {
+        "id": "atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones-f7fa",
+        "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+        "category": "books",
+        "subtitle": "Featured in latest video",
+        "url": "https://www.amazon.com/dp/0735211299?tag=louisamazonaf-20",
+        "icon": "📚",
+        "isHighlighted": false
+    },
+    {
+        "id": "daily-wisdom-001",
+        "title": "Daily Wisdom Journal",
+        "category": "lifestyle",
+        "subtitle": "Ancient Stoic practices for 2026",
+        "url": "https://heritage-sagesse.com",
+        "icon": "📜",
+        "isHighlighted": false
+    },
+    {
+        "id": "heritage-collection",
+        "title": "Classical Literature Set",
+        "category": "books",
+        "subtitle": "Essential wisdom for your library",
+        "url": "https://heritage-sagesse.com",
+        "icon": "📚",
+        "isHighlighted": false
     }
 ]
