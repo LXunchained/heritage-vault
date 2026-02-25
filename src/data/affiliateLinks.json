@@ -1,12 +1,21 @@
 [
     {
+        "id": "the-let-them-theory-a-lifechanging-tool-that-millions-of-people-cant-stop-talkin-fdb5",
+        "title": "The Let Them Theory: A Life-Changing Tool That Millions of People Can’t Stop Talking About",
+        "category": "books",
+        "subtitle": "Featured in latest video",
+        "url": "https://www.amazon.com/dp/B0DFMZMKFJ?tag=louisamazonaf-20",
+        "icon": "📚",
+        "isHighlighted": true
+    },
+    {
         "id": "the-48-laws-of-power-eacd",
         "title": "The 48 Laws of Power",
         "category": "books",
         "subtitle": "Featured in latest video",
         "url": "https://www.amazon.com/dp/0140280197?tag=louisamazonaf-20",
         "icon": "📚",
-        "isHighlighted": true
+        "isHighlighted": false
     },
     {
         "id": "the-subtle-art-of-not-giving-a-fck-a-counterintuitive-approach-to-living-a-good--d2c4",
