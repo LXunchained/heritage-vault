@@ -1,12 +1,21 @@
 [
     {
+        "id": "the-artists-way-30th-anniversary-edition-eff7",
+        "title": "The Artist's Way: 30th Anniversary Edition",
+        "category": "books",
+        "subtitle": "Featured in latest video",
+        "url": "https://www.amazon.com/dp/0143129252?tag=louisamazonaf-20",
+        "icon": "📚",
+        "isHighlighted": true
+    },
+    {
         "id": "strangers-a-memoir-of-marriage-b77a",
         "title": "Strangers: A Memoir of Marriage",
         "category": "books",
         "subtitle": "Featured in latest video",
         "url": "https://www.amazon.com/dp/B0F6QPJMKJ?tag=louisamazonaf-20",
         "icon": "📚",
-        "isHighlighted": true
+        "isHighlighted": false
     },
     {
         "id": "cant-hurt-me-master-your-mind-and-defy-the-odds-128d",
