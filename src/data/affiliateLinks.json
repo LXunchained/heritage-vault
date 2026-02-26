@@ -1,12 +1,21 @@
 [
     {
+        "id": "never-split-the-difference-negotiating-as-if-your-life-depended-on-it-41f9",
+        "title": "Never Split the Difference: Negotiating as if Your Life Depended on It",
+        "category": "books",
+        "subtitle": "Featured in latest video",
+        "url": "https://www.amazon.com/dp/B01COR1GM2?tag=louisamazonaf-20",
+        "icon": "📚",
+        "isHighlighted": true
+    },
+    {
         "id": "the-artists-way-30th-anniversary-edition-eff7",
         "title": "The Artist's Way: 30th Anniversary Edition",
         "category": "books",
         "subtitle": "Featured in latest video",
         "url": "https://www.amazon.com/dp/0143129252?tag=louisamazonaf-20",
         "icon": "📚",
-        "isHighlighted": true
+        "isHighlighted": false
     },
     {
         "id": "strangers-a-memoir-of-marriage-b77a",
