@@ -1,12 +1,21 @@
 [
     {
+        "id": "the-subtle-art-of-not-giving-a-fck-a-counterintuitive-approach-to-living-a-good--983d",
+        "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
+        "category": "books",
+        "subtitle": "Featured in latest video",
+        "url": "https://www.amazon.com/dp/B01I29Y344?tag=louisamazonaf-20",
+        "icon": "📚",
+        "isHighlighted": true
+    },
+    {
         "id": "the-let-them-theory-a-lifechanging-tool-that-millions-of-people-cant-stop-talkin-65fa",
         "title": "The Let Them Theory: A Life-Changing Tool That Millions of People Can’t Stop Talking About",
         "category": "books",
         "subtitle": "Featured in latest video",
         "url": "https://www.amazon.com/dp/B0DFMZMKFJ?tag=louisamazonaf-20",
         "icon": "📚",
-        "isHighlighted": true
+        "isHighlighted": false
     },
     {
         "id": "the-artists-way-30th-anniversary-edition-3b33",
