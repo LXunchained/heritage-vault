@@ -1,12 +1,21 @@
 [
     {
+        "id": "the-let-them-theory-a-lifechanging-tool-that-millions-of-people-cant-stop-talkin-65fa",
+        "title": "The Let Them Theory: A Life-Changing Tool That Millions of People Can’t Stop Talking About",
+        "category": "books",
+        "subtitle": "Featured in latest video",
+        "url": "https://www.amazon.com/dp/B0DFMZMKFJ?tag=louisamazonaf-20",
+        "icon": "📚",
+        "isHighlighted": true
+    },
+    {
         "id": "the-artists-way-30th-anniversary-edition-3b33",
         "title": "The Artist's Way: 30th Anniversary Edition",
         "category": "books",
         "subtitle": "Featured in latest video",
         "url": "https://www.amazon.com/dp/0143129252?tag=louisamazonaf-20",
         "icon": "📚",
-        "isHighlighted": true
+        "isHighlighted": false
     },
     {
         "id": "never-split-the-difference-negotiating-as-if-your-life-depended-on-it-41f9",
