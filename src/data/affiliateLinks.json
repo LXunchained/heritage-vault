@@ -1,12 +1,22 @@
 [
     {
+        "id": "essentialism-the-disciplined-pursuit-of-less-66cf",
+        "title": "Essentialism: The Disciplined Pursuit of Less",
+        "category": "books",
+        "subtitle": "Featured in our latest video",
+        "url": "https://www.amazon.com/dp/0804137382?tag=louisamazonaf-20",
+        "icon": "📚",
+        "isHighlighted": true,
+        "isbn": "0804137382"
+    },
+    {
         "id": "deep-work-rules-for-focused-success-in-a-distracted-world-5cb1",
         "title": "Deep Work: Rules for Focused Success in a Distracted World",
         "category": "books",
         "subtitle": "Featured in our latest video",
         "url": "https://www.amazon.com/dp/1455586692?tag=louisamazonaf-20",
         "icon": "📚",
-        "isHighlighted": true,
+        "isHighlighted": false,
         "isbn": "1455586692"
     },
     {
