@@ -1,12 +1,22 @@
 [
     {
+        "id": "the-7-habits-of-highly-effective-people-30th-anniversary-edition-the-covey-habit-cd73",
+        "title": "The 7 Habits of Highly Effective People: 30th Anniversary Edition (The Covey Habits Series)",
+        "category": "books",
+        "subtitle": "Featured in our latest video",
+        "url": "https://www.amazon.com/dp/1982137274?tag=louisamazonaf-20",
+        "icon": "📚",
+        "isHighlighted": true,
+        "isbn": "1982137274"
+    },
+    {
         "id": "how-to-win-friends-and-influence-people-9431",
         "title": "How to Win Friends and Influence People",
         "category": "books",
         "subtitle": "Featured in our latest video",
         "url": "https://www.amazon.com/dp/0671027034?tag=louisamazonaf-20",
         "icon": "📚",
-        "isHighlighted": true,
+        "isHighlighted": false,
         "isbn": "0671027034"
     },
     {
