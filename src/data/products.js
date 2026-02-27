@@ -1,77 +1,52 @@
 export const products = [
     {
-        id: "la-force-de-l-esprit",
-        title: "La Force de l'Esprit",
-        shortDescription: "Un voyage à travers les philosophies de la résilience.",
-        description: "Ce livre explore comment les grandes sagesses du passé peuvent nous aider à naviguer dans les défis du monde moderne. Une lecture essentielle pour quiconque cherche à renforcer sa détermination et sa clarté mentale.",
-        price: 19.99,
-        features: [
-            "Leçons de stoïcisme appliquées",
-            "Exercices de réflexion quotidienne",
-            "Méditations guidées incluses",
-            "Format E-book et Audiobook",
-            "Accès à la communauté privée"
-        ],
-        specs: {
-            format: "PDF, EPUB, MP3",
-            pages: "240 pages",
-            language: "Français"
-        },
-        faq: [
-            { q: "Est-ce adapté aux débutants ?", a: "Oui, les concepts sont expliqués de manière simple et accessible à tous." },
-            { q: "Puis-je l'écouter sur mon téléphone ?", a: "Absolument, la version audio est compatible avec tous les smartphones." }
-        ],
+        id: "the-let-them-theory",
+        title: "The Let Them Theory",
+        shortDescription: "Libérez-vous du besoin de contrôler les autres.",
+        description: "Mel Robbins vous enseigne à arrêter de dépenser votre énergie à essayer de contrôler les actions et réactions des autres. Un outil simple et puissant pour retrouver la paix intérieure et avancer vers ce qui compte vraiment.",
+        url: "https://www.amazon.com/dp/1401971369?tag=louisamazonaf-20",
+        isbn: "1401971369",
         badge: "Populaire",
-        icon: "BookOpen"
+        category: "développement personnel"
     },
     {
-        id: "l-art-de-la-transmission",
-        title: "L'Art de la Transmission",
-        shortDescription: "Apprendre à transmettre son savoir aux générations futures.",
-        description: "Comment laisser une trace durable ? Ce guide pratique vous enseigne les méthodes pour structurer vos connaissances et les partager de manière efficace avec vos proches ou votre audience.",
-        price: 24.99,
-        features: [
-            "Méthodes de storytelling",
-            "Guide de création d'héritage numérique",
-            "Modèles de journaux de bord",
-            "Ateliers vidéo exclusifs",
-            "Checklists de transmission"
-        ],
-        specs: {
-            format: "Pack Numérique Complet",
-            duration: "3h de contenu vidéo",
-            language: "Français"
-        },
-        faq: [
-            { q: "Qu'est-ce qu'un héritage numérique ?", a: "C'est l'ensemble de vos écrits, photos et vidéos organisés pour être consultés après vous." },
-            { q: "Y a-t-il des mises à jour ?", a: "Oui, vous recevez gratuitement toutes les nouvelles versions du guide." }
-        ],
-        badge: "Nouveau",
-        icon: "Share2"
-    },
-    {
-        id: "sagesse-quotidienne-journal",
-        title: "Journal de Sagesse",
-        shortDescription: "Votre compagnon pour une vie intentionnelle.",
-        description: "Plus qu'un simple carnet, ce journal est un outil de transformation. Chaque jour, une citation inspirante et une question de réflexion pour vous aider à rester aligné avec vos valeurs profondes.",
-        price: 14.99,
-        features: [
-            "365 jours de réflexion",
-            "Citations de grands penseurs",
-            "Suivi d'habitudes intégré",
-            "Design élégant et minimaliste",
-            "Version imprimable haute qualité"
-        ],
-        specs: {
-            format: "PDF (Optimisé pour impression/iPad)",
-            pages: "380 pages",
-            language: "Français"
-        },
-        faq: [
-            { q: "Puis-je l'utiliser sur une tablette ?", a: "Oui, il est parfait pour des applications comme GoodNotes ou Notability." },
-            { q: "Est-ce daté ?", a: "Non, vous pouvez commencer à tout moment de l'année." }
-        ],
+        id: "the-untethered-soul",
+        title: "The Untethered Soul",
+        shortDescription: "Un voyage au-delà de votre mental.",
+        description: "Michael Singer vous invite à explorer la conscience qui observe vos pensées et émotions. Découvrez comment vous libérer des schémas mentaux limitants et vivre dans un état d'ouverture et de paix durable.",
+        url: "https://www.amazon.com/dp/1572245379?tag=louisamazonaf-20",
+        isbn: "1572245379",
         badge: "Essentiel",
-        icon: "Command"
-    }
+        category: "spiritualité"
+    },
+    {
+        id: "atomic-habits",
+        title: "Atomic Habits",
+        shortDescription: "La méthode prouvée pour construire de bonnes habitudes.",
+        description: "James Clear révèle comment de minuscules changements quotidiens produisent des résultats remarquables. Apprenez les 4 lois du changement de comportement et construisez un système qui vous propulse vers vos objectifs.",
+        url: "https://www.amazon.com/dp/0735211299?tag=louisamazonaf-20",
+        isbn: "0735211299",
+        badge: "Bestseller",
+        category: "productivité"
+    },
+    {
+        id: "sapiens",
+        title: "Sapiens",
+        shortDescription: "Une histoire de l'humanité racontée autrement.",
+        description: "Yuval Noah Harari retrace 70 000 ans d'histoire humaine en questionnant nos certitudes sur le progrès, le bonheur et l'avenir de notre espèce. Un voyage intellectuel qui changera votre façon de voir le monde.",
+        url: "https://www.amazon.com/dp/0062316095?tag=louisamazonaf-20",
+        isbn: "0062316095",
+        badge: "Incontournable",
+        category: "histoire"
+    },
+    {
+        id: "the-subtle-art",
+        title: "The Subtle Art of Not Giving a F*ck",
+        shortDescription: "Une approche contre-intuitive pour vivre une belle vie.",
+        description: "Mark Manson défend l'idée que la vraie voie vers une vie meilleure passe par accepter nos limites, embrasser nos difficultés, et choisir ce qui mérite vraiment notre attention.",
+        url: "https://www.amazon.com/dp/0062641549?tag=louisamazonaf-20",
+        isbn: "0062641549",
+        badge: "Viral",
+        category: "philosophie"
+    },
 ];

@@ -1,182 +1,62 @@
 [
     {
-        "id": "the-subtle-art-of-not-giving-a-fck-a-counterintuitive-approach-to-living-a-good--983d",
-        "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
-        "category": "books",
-        "subtitle": "Featured in latest video",
-        "url": "https://www.amazon.com/dp/B01I29Y344?tag=louisamazonaf-20",
-        "icon": "📚",
+        "id": "the-let-them-theory",
+        "title": "The Let Them Theory",
+        "category": "développement personnel",
+        "subtitle": "Libérez-vous du besoin de contrôler les autres",
+        "url": "https://www.amazon.com/dp/1401971369?tag=louisamazonaf-20",
+        "isbn": "1401971369",
+        "icon": "📖",
         "isHighlighted": true
     },
     {
-        "id": "the-let-them-theory-a-lifechanging-tool-that-millions-of-people-cant-stop-talkin-65fa",
-        "title": "The Let Them Theory: A Life-Changing Tool That Millions of People Can’t Stop Talking About",
-        "category": "books",
-        "subtitle": "Featured in latest video",
-        "url": "https://www.amazon.com/dp/B0DFMZMKFJ?tag=louisamazonaf-20",
-        "icon": "📚",
-        "isHighlighted": false
-    },
-    {
-        "id": "the-artists-way-30th-anniversary-edition-3b33",
-        "title": "The Artist's Way: 30th Anniversary Edition",
-        "category": "books",
-        "subtitle": "Featured in latest video",
-        "url": "https://www.amazon.com/dp/0143129252?tag=louisamazonaf-20",
-        "icon": "📚",
-        "isHighlighted": false
-    },
-    {
-        "id": "never-split-the-difference-negotiating-as-if-your-life-depended-on-it-41f9",
-        "title": "Never Split the Difference: Negotiating as if Your Life Depended on It",
-        "category": "books",
-        "subtitle": "Featured in latest video",
-        "url": "https://www.amazon.com/dp/B01COR1GM2?tag=louisamazonaf-20",
-        "icon": "📚",
-        "isHighlighted": false
-    },
-    {
-        "id": "the-artists-way-30th-anniversary-edition-eff7",
-        "title": "The Artist's Way: 30th Anniversary Edition",
-        "category": "books",
-        "subtitle": "Featured in latest video",
-        "url": "https://www.amazon.com/dp/0143129252?tag=louisamazonaf-20",
-        "icon": "📚",
-        "isHighlighted": false
-    },
-    {
-        "id": "strangers-a-memoir-of-marriage-b77a",
-        "title": "Strangers: A Memoir of Marriage",
-        "category": "books",
-        "subtitle": "Featured in latest video",
-        "url": "https://www.amazon.com/dp/B0F6QPJMKJ?tag=louisamazonaf-20",
-        "icon": "📚",
-        "isHighlighted": false
-    },
-    {
-        "id": "cant-hurt-me-master-your-mind-and-defy-the-odds-128d",
-        "title": "Can't Hurt Me: Master Your Mind and Defy the Odds",
-        "category": "books",
-        "subtitle": "Featured in latest video",
-        "url": "https://www.amazon.com/dp/B07KKP62FW?tag=louisamazonaf-20",
-        "icon": "📚",
-        "isHighlighted": false
-    },
-    {
-        "id": "never-split-the-difference-negotiating-as-if-your-life-depended-on-it-b2e0",
-        "title": "Never Split the Difference: Negotiating as if Your Life Depended on It",
-        "category": "books",
-        "subtitle": "Featured in latest video",
-        "url": "https://www.amazon.com/dp/B01COR1GM2?tag=louisamazonaf-20",
-        "icon": "📚",
-        "isHighlighted": false
-    },
-    {
-        "id": "the-artists-way-30th-anniversary-edition-f02c",
-        "title": "The Artist's Way: 30th Anniversary Edition",
-        "category": "books",
-        "subtitle": "Featured in latest video",
-        "url": "https://www.amazon.com/dp/0143129252?tag=louisamazonaf-20",
-        "icon": "📚",
-        "isHighlighted": false
-    },
-    {
-        "id": "adult-children-of-emotionally-immature-parents-how-to-heal-from-distant-rejectin-3a81",
-        "title": "Adult Children of Emotionally Immature Parents: How to Heal from Distant, Rejecting, or Self-Involved Parents",
-        "category": "books",
-        "subtitle": "Featured in latest video",
-        "url": "https://www.amazon.com/dp/1626251703?tag=louisamazonaf-20",
-        "icon": "📚",
-        "isHighlighted": false
-    },
-    {
-        "id": "the-let-them-theory-a-lifechanging-tool-that-millions-of-people-cant-stop-talkin-fdb5",
-        "title": "The Let Them Theory: A Life-Changing Tool That Millions of People Can’t Stop Talking About",
-        "category": "books",
-        "subtitle": "Featured in latest video",
-        "url": "https://www.amazon.com/dp/B0DFMZMKFJ?tag=louisamazonaf-20",
-        "icon": "📚",
-        "isHighlighted": false
-    },
-    {
-        "id": "the-48-laws-of-power-eacd",
-        "title": "The 48 Laws of Power",
-        "category": "books",
-        "subtitle": "Featured in latest video",
-        "url": "https://www.amazon.com/dp/0140280197?tag=louisamazonaf-20",
-        "icon": "📚",
-        "isHighlighted": false
-    },
-    {
-        "id": "the-subtle-art-of-not-giving-a-fck-a-counterintuitive-approach-to-living-a-good--d2c4",
-        "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
-        "category": "books",
-        "subtitle": "Featured in latest video",
-        "url": "https://www.amazon.com/dp/B01I29Y344?tag=louisamazonaf-20",
-        "icon": "📚",
-        "isHighlighted": false
-    },
-    {
-        "id": "the-subtle-art-of-not-giving-a-fck-a-counterintuitive-approach-to-living-a-good--8f6e",
-        "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
-        "category": "books",
-        "subtitle": "Featured in latest video",
-        "url": "https://www.amazon.com/dp/B01I29Y344?tag=louisamazonaf-20",
-        "icon": "📚",
-        "isHighlighted": false
-    },
-    {
-        "id": "strangers-a-memoir-of-marriage-ce45",
-        "title": "Strangers: A Memoir of Marriage",
-        "category": "books",
-        "subtitle": "Featured in latest video",
-        "url": "https://www.amazon.com/dp/B0F6QPJMKJ?tag=louisamazonaf-20",
-        "icon": "📚",
-        "isHighlighted": false
-    },
-    {
-        "id": "strangers-a-memoir-of-marriage-8578",
-        "title": "Strangers: A Memoir of Marriage",
-        "category": "books",
-        "subtitle": "Featured in latest video",
-        "url": "https://www.amazon.com/dp/B0F6QPJMKJ?tag=louisamazonaf-20",
-        "icon": "📚",
-        "isHighlighted": false
-    },
-    {
-        "id": "crying-in-h-mart-a-memoir-9b47",
-        "title": "Crying in H Mart: A Memoir",
-        "category": "books",
-        "subtitle": "Featured in latest video",
-        "url": "https://www.amazon.com/dp/B08DMXF7ZZ?tag=louisamazonaf-20",
-        "icon": "📚",
-        "isHighlighted": false
-    },
-    {
-        "id": "atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones-f7fa",
-        "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
-        "category": "books",
-        "subtitle": "Featured in latest video",
+        "id": "atomic-habits",
+        "title": "Atomic Habits",
+        "category": "productivité",
+        "subtitle": "Construisez de bonnes habitudes, brisez les mauvaises",
         "url": "https://www.amazon.com/dp/0735211299?tag=louisamazonaf-20",
-        "icon": "📚",
+        "isbn": "0735211299",
+        "icon": "⚡",
+        "isHighlighted": true
+    },
+    {
+        "id": "the-subtle-art",
+        "title": "The Subtle Art of Not Giving a F*ck",
+        "category": "philosophie",
+        "subtitle": "Une approche contre-intuitive pour vivre mieux",
+        "url": "https://www.amazon.com/dp/0062641549?tag=louisamazonaf-20",
+        "isbn": "0062641549",
+        "icon": "🔥",
+        "isHighlighted": true
+    },
+    {
+        "id": "cant-hurt-me",
+        "title": "Can't Hurt Me",
+        "category": "mentalité",
+        "subtitle": "Maîtrisez votre mental et défiez les limites",
+        "url": "https://www.amazon.com/dp/1544512279?tag=louisamazonaf-20",
+        "isbn": "1544512279",
+        "icon": "💪",
         "isHighlighted": false
     },
     {
-        "id": "daily-wisdom-001",
-        "title": "Daily Wisdom Journal",
-        "category": "lifestyle",
-        "subtitle": "Ancient Stoic practices for 2026",
-        "url": "https://heritage-sagesse.com",
-        "icon": "📜",
+        "id": "the-untethered-soul",
+        "title": "The Untethered Soul",
+        "category": "spiritualité",
+        "subtitle": "Un voyage au-delà de votre mental",
+        "url": "https://www.amazon.com/dp/1572245379?tag=louisamazonaf-20",
+        "isbn": "1572245379",
+        "icon": "🌿",
         "isHighlighted": false
     },
     {
-        "id": "heritage-collection",
-        "title": "Classical Literature Set",
-        "category": "books",
-        "subtitle": "Essential wisdom for your library",
-        "url": "https://heritage-sagesse.com",
-        "icon": "📚",
+        "id": "never-split-the-difference",
+        "title": "Never Split the Difference",
+        "category": "négociation",
+        "subtitle": "L'art de la négociation appliqué à votre vie",
+        "url": "https://www.amazon.com/dp/0062407805?tag=louisamazonaf-20",
+        "isbn": "0062407805",
+        "icon": "🤝",
         "isHighlighted": false
     }
 ]
