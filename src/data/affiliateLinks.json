@@ -1,12 +1,22 @@
 [
     {
+        "id": "how-to-win-friends-and-influence-people-9431",
+        "title": "How to Win Friends and Influence People",
+        "category": "books",
+        "subtitle": "Featured in our latest video",
+        "url": "https://www.amazon.com/dp/0671027034?tag=louisamazonaf-20",
+        "icon": "📚",
+        "isHighlighted": true,
+        "isbn": "0671027034"
+    },
+    {
         "id": "build-the-life-you-want-the-art-and-science-of-getting-happier-75fc",
         "title": "Build the Life You Want: The Art and Science of Getting Happier",
         "category": "books",
         "subtitle": "Featured in our latest video",
         "url": "https://www.amazon.com/dp/0593545400?tag=louisamazonaf-20",
         "icon": "📚",
-        "isHighlighted": true,
+        "isHighlighted": false,
         "isbn": "0593545400"
     },
     {
