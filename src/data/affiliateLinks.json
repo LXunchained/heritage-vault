@@ -1,12 +1,22 @@
 [
     {
+        "id": "deep-work-rules-for-focused-success-in-a-distracted-world-5cb1",
+        "title": "Deep Work: Rules for Focused Success in a Distracted World",
+        "category": "books",
+        "subtitle": "Featured in our latest video",
+        "url": "https://www.amazon.com/dp/1455586692?tag=louisamazonaf-20",
+        "icon": "📚",
+        "isHighlighted": true,
+        "isbn": "1455586692"
+    },
+    {
         "id": "an-exercise-in-uncertainty-a-memoir-of-illness-and-hope-3eb6",
         "title": "An Exercise in Uncertainty: A Memoir of Illness and Hope",
         "category": "books",
         "subtitle": "Featured in our latest video",
         "url": "https://www.amazon.com/dp/0593735781?tag=louisamazonaf-20",
         "icon": "📚",
-        "isHighlighted": true,
+        "isHighlighted": false,
         "isbn": "0593735781"
     },
     {
