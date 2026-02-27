@@ -1,12 +1,22 @@
 [
     {
+        "id": "the-5am-club-own-your-morning-elevate-your-life-1d87",
+        "title": "The 5AM Club: Own Your Morning. Elevate Your Life.",
+        "category": "books",
+        "subtitle": "Featured in our latest video",
+        "url": "https://www.amazon.com/dp/1443456624?tag=louisamazonaf-20",
+        "icon": "📚",
+        "isHighlighted": true,
+        "isbn": "1443456624"
+    },
+    {
         "id": "essentialism-the-disciplined-pursuit-of-less-66cf",
         "title": "Essentialism: The Disciplined Pursuit of Less",
         "category": "books",
         "subtitle": "Featured in our latest video",
         "url": "https://www.amazon.com/dp/0804137382?tag=louisamazonaf-20",
         "icon": "📚",
-        "isHighlighted": true,
+        "isHighlighted": false,
         "isbn": "0804137382"
     },
     {
