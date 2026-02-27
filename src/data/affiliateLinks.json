@@ -1,12 +1,22 @@
 [
     {
+        "id": "build-the-life-you-want-the-art-and-science-of-getting-happier-75fc",
+        "title": "Build the Life You Want: The Art and Science of Getting Happier",
+        "category": "books",
+        "subtitle": "Featured in our latest video",
+        "url": "https://www.amazon.com/dp/0593545400?tag=louisamazonaf-20",
+        "icon": "📚",
+        "isHighlighted": true,
+        "isbn": "0593545400"
+    },
+    {
         "id": "the-5am-club-own-your-morning-elevate-your-life-1d87",
         "title": "The 5AM Club: Own Your Morning. Elevate Your Life.",
         "category": "books",
         "subtitle": "Featured in our latest video",
         "url": "https://www.amazon.com/dp/1443456624?tag=louisamazonaf-20",
         "icon": "📚",
-        "isHighlighted": true,
+        "isHighlighted": false,
         "isbn": "1443456624"
     },
     {
