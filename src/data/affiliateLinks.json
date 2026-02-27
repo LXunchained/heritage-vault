@@ -1,5 +1,15 @@
 [
     {
+        "id": "atomic-habits-an-easy--proven-way-to-build-good-habits--break-bad-ones-8470",
+        "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+        "category": "books",
+        "subtitle": "Featured in our latest video",
+        "url": "https://www.amazon.com/dp/0735211299?tag=louisamazonaf-20",
+        "icon": "📚",
+        "isHighlighted": true,
+        "isbn": "0735211299"
+    },
+    {
         "id": "the-let-them-theory",
         "title": "The Let Them Theory",
         "category": "développement personnel",
@@ -7,7 +17,7 @@
         "url": "https://www.amazon.com/dp/1401971369?tag=louisamazonaf-20",
         "isbn": "1401971369",
         "icon": "📖",
-        "isHighlighted": true
+        "isHighlighted": false
     },
     {
         "id": "atomic-habits",
@@ -17,7 +27,7 @@
         "url": "https://www.amazon.com/dp/0735211299?tag=louisamazonaf-20",
         "isbn": "0735211299",
         "icon": "⚡",
-        "isHighlighted": true
+        "isHighlighted": false
     },
     {
         "id": "the-subtle-art",
@@ -27,7 +37,7 @@
         "url": "https://www.amazon.com/dp/0062641549?tag=louisamazonaf-20",
         "isbn": "0062641549",
         "icon": "🔥",
-        "isHighlighted": true
+        "isHighlighted": false
     },
     {
         "id": "cant-hurt-me",
