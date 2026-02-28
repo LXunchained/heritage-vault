@@ -1,12 +1,22 @@
 [
     {
+        "id": "cant-hurt-me-master-your-mind-and-defy-the-odds-1d4d",
+        "title": "Can't Hurt Me: Master Your Mind and Defy the Odds",
+        "category": "books",
+        "subtitle": "Featured in our latest video",
+        "url": "https://www.amazon.com/dp/1544512279?tag=louisamazonaf-20",
+        "icon": "📚",
+        "isHighlighted": true,
+        "isbn": "1544512279"
+    },
+    {
         "id": "the-7-habits-of-highly-effective-people-30th-anniversary-edition-the-covey-habit-cd73",
         "title": "The 7 Habits of Highly Effective People: 30th Anniversary Edition (The Covey Habits Series)",
         "category": "books",
         "subtitle": "Featured in our latest video",
         "url": "https://www.amazon.com/dp/1982137274?tag=louisamazonaf-20",
         "icon": "📚",
-        "isHighlighted": true,
+        "isHighlighted": false,
         "isbn": "1982137274"
     },
     {
