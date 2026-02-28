@@ -1,12 +1,22 @@
 [
     {
+        "id": "12-rules-for-life-an-antidote-to-chaos-16f9",
+        "title": "12 Rules for Life: An Antidote to Chaos",
+        "category": "books",
+        "subtitle": "Featured in our latest video",
+        "url": "https://www.amazon.com/dp/0345816021?tag=louisamazonaf-20",
+        "icon": "📚",
+        "isHighlighted": true,
+        "isbn": "0345816021"
+    },
+    {
         "id": "cant-hurt-me-master-your-mind-and-defy-the-odds-1d4d",
         "title": "Can't Hurt Me: Master Your Mind and Defy the Odds",
         "category": "books",
         "subtitle": "Featured in our latest video",
         "url": "https://www.amazon.com/dp/1544512279?tag=louisamazonaf-20",
         "icon": "📚",
-        "isHighlighted": true,
+        "isHighlighted": false,
         "isbn": "1544512279"
     },
     {
