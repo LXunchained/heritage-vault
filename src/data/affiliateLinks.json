@@ -1,12 +1,22 @@
 [
     {
+        "id": "the-power-of-now-a-guide-to-spiritual-enlightenment-3234",
+        "title": "The Power of Now: A Guide to Spiritual Enlightenment",
+        "category": "books",
+        "subtitle": "Featured in our latest video",
+        "url": "https://www.amazon.com/dp/1577314808?tag=louisamazonaf-20",
+        "icon": "📚",
+        "isHighlighted": true,
+        "isbn": "1577314808"
+    },
+    {
         "id": "12-rules-for-life-an-antidote-to-chaos-16f9",
         "title": "12 Rules for Life: An Antidote to Chaos",
         "category": "books",
         "subtitle": "Featured in our latest video",
         "url": "https://www.amazon.com/dp/0345816021?tag=louisamazonaf-20",
         "icon": "📚",
-        "isHighlighted": true,
+        "isHighlighted": false,
         "isbn": "0345816021"
     },
     {
